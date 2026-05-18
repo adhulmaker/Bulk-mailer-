@@ -1,0 +1,13 @@
+# Sample emails file
+# Lines starting with # are ignored
+# You can list one email per line, or comma-separated
+
+example1@gmail.com
+example2@yahoo.com
+example3@outlook.com
+
+# Or comma-separated:
+# test1@example.com, test2@example.com
+
+# Replace these with your real recipient list,
+# or upload a .csv / .xlsx file and set EMAILS_FILE in .env
